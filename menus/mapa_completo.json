@@ -1,0 +1,3455 @@
+{
+  "title": "INFOSAUDE - QAPP - SALUX HOSPITAL UM - Portal Salux SX 4.24080.10",
+  "class_name": "FNWND3",
+  "children": [
+    {
+      "title": "2",
+      "class_name": "Button",
+      "children": []
+    },
+    {
+      "title": "🔊",
+      "class_name": "Button",
+      "children": []
+    },
+    {
+      "title": "r",
+      "class_name": "Button",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "FNUDO3",
+      "children": [
+        {
+          "title": "none",
+          "class_name": "Button",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "ATL:611DE328",
+              "children": [
+                {
+                  "title": "EVRVideoHandler",
+                  "class_name": "EVRVideoHandler",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "EVRVideoHandler",
+              "class_name": "EVRVideoHandler",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "ATL:611DE328",
+          "children": [
+            {
+              "title": "EVRVideoHandler",
+              "class_name": "EVRVideoHandler",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "EVRVideoHandler",
+          "class_name": "EVRVideoHandler",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "pbdw",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "none",
+      "class_name": "Button",
+      "children": [
+        {
+          "title": "none",
+          "class_name": "ATL:611DE328",
+          "children": [
+            {
+              "title": "EVRVideoHandler",
+              "class_name": "EVRVideoHandler",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "EVRVideoHandler",
+          "class_name": "EVRVideoHandler",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "none",
+      "class_name": "ATL:611DE328",
+      "children": [
+        {
+          "title": "EVRVideoHandler",
+          "class_name": "EVRVideoHandler",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "EVRVideoHandler",
+      "class_name": "EVRVideoHandler",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "pbdw",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "pbdw",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "FNUDO3",
+      "children": [
+        {
+          "title": "none",
+          "class_name": "pbdw",
+          "children": []
+        },
+        {
+          "title": "Encontre no Portal Salux SX...",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "Domingo, 21 de setembro de 2025, 22 hora(s) e 33 minuto(s) .",
+          "class_name": "Button",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "none",
+      "class_name": "pbdw",
+      "children": []
+    },
+    {
+      "title": "Encontre no Portal Salux SX...",
+      "class_name": "Edit",
+      "children": []
+    },
+    {
+      "title": "Domingo, 21 de setembro de 2025, 22 hora(s) e 33 minuto(s) .",
+      "class_name": "Button",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "FNUDO3",
+      "children": [
+        {
+          "title": "none",
+          "class_name": "pbdw",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "pbdw",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "pbdw",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "none",
+      "class_name": "pbdw",
+      "children": [
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "none",
+      "class_name": "Edit",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "pbdw",
+      "children": [
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "none",
+      "class_name": "Edit",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "pbdw",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "FNUDO3",
+      "children": [
+        {
+          "title": "none",
+          "class_name": "pbdw",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "pbdw",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "none",
+      "class_name": "pbdw",
+      "children": [
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "none",
+      "class_name": "Edit",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "Edit",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "pbdw",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "FNUDO3",
+      "children": [
+        {
+          "title": "none",
+          "class_name": "PBTabControl32_100",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "FNUDO3",
+              "children": [
+                {
+                  "title": "A gestão do paciente visa integração de todas as informações assistencias que lhe dizem respeito, com o objetivo de auxiliar os profissionais da área da saúde na tomada de decisão.",
+                  "class_name": "Button",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "pbdw",
+                  "children": [
+                    {
+                      "title": "none",
+                      "class_name": "Edit",
+                      "children": []
+                    },
+                    {
+                      "title": "none",
+                      "class_name": "Edit",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "Informações",
+                  "class_name": "GroupBox",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "A gestão do paciente visa integração de todas as informações assistencias que lhe dizem respeito, com o objetivo de auxiliar os profissionais da área da saúde na tomada de decisão.",
+              "class_name": "Button",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "pbdw",
+              "children": [
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "Informações",
+              "class_name": "GroupBox",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "FNUDO3",
+              "children": [
+                {
+                  "title": "none",
+                  "class_name": "Button",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "pbdw",
+                  "children": [
+                    {
+                      "title": "none",
+                      "class_name": "Edit",
+                      "children": []
+                    },
+                    {
+                      "title": "none",
+                      "class_name": "Edit",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "Informações",
+                  "class_name": "GroupBox",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "none",
+              "class_name": "Button",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "pbdw",
+              "children": [
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "Informações",
+              "class_name": "GroupBox",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "FNUDO3",
+              "children": [
+                {
+                  "title": "O foco da área de suprimentos é equipar com qualidade, preços e prazos competitivos seus empreendimentos espalhados por todo o mundo. Para isso, conta com sistemas gerenciais desenvolvidos internamente, capazes de assegurar as melhores condições e prazos adequados à aquisição de insumos.",
+                  "class_name": "Button",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "pbdw",
+                  "children": [
+                    {
+                      "title": "none",
+                      "class_name": "Edit",
+                      "children": []
+                    },
+                    {
+                      "title": "none",
+                      "class_name": "Edit",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "Informações",
+                  "class_name": "GroupBox",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "O foco da área de suprimentos é equipar com qualidade, preços e prazos competitivos seus empreendimentos espalhados por todo o mundo. Para isso, conta com sistemas gerenciais desenvolvidos internamente, capazes de assegurar as melhores condições e prazos adequados à aquisição de insumos.",
+              "class_name": "Button",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "pbdw",
+              "children": [
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "Informações",
+              "class_name": "GroupBox",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "FNUDO3",
+              "children": [
+                {
+                  "title": "A gestão financeira é uma das tradicionais áreas funcionais da gestão, encontrada em qualquer organização e à qual cabem as análises, decisões e atuações relacionados com os meios financeiros necessários à atividade da organização. Desta forma, a função financeira integra todas as tarefas ligadas à obtenção, utilização e controle de recursos financeiros de forma a garantir a estabilidade e a rentabilidade das operações da organização.",
+                  "class_name": "Button",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "pbdw",
+                  "children": [
+                    {
+                      "title": "none",
+                      "class_name": "Edit",
+                      "children": []
+                    },
+                    {
+                      "title": "none",
+                      "class_name": "Edit",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "Informações",
+                  "class_name": "GroupBox",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "A gestão financeira é uma das tradicionais áreas funcionais da gestão, encontrada em qualquer organização e à qual cabem as análises, decisões e atuações relacionados com os meios financeiros necessários à atividade da organização. Desta forma, a função financeira integra todas as tarefas ligadas à obtenção, utilização e controle de recursos financeiros de forma a garantir a estabilidade e a rentabilidade das operações da organização.",
+              "class_name": "Button",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "pbdw",
+              "children": [
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "Informações",
+              "class_name": "GroupBox",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "FNUDO3",
+              "children": [
+                {
+                  "title": "none",
+                  "class_name": "Button",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "pbdw",
+                  "children": [
+                    {
+                      "title": "none",
+                      "class_name": "Edit",
+                      "children": []
+                    },
+                    {
+                      "title": "none",
+                      "class_name": "Edit",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "Informações",
+                  "class_name": "GroupBox",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "none",
+              "class_name": "Button",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "pbdw",
+              "children": [
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "Informações",
+              "class_name": "GroupBox",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "FNUDO3",
+              "children": [
+                {
+                  "title": "A gestão estratégica organiza os contributos que as diversas áreas têm a dar à organização, servindo como linha orientadora à integração dos esforços desenvolvidos pelos vários especialistas, dispersos pelo organização.",
+                  "class_name": "Button",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "pbdw",
+                  "children": [
+                    {
+                      "title": "none",
+                      "class_name": "Edit",
+                      "children": []
+                    },
+                    {
+                      "title": "none",
+                      "class_name": "Edit",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "Informações",
+                  "class_name": "GroupBox",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "A gestão estratégica organiza os contributos que as diversas áreas têm a dar à organização, servindo como linha orientadora à integração dos esforços desenvolvidos pelos vários especialistas, dispersos pelo organização.",
+              "class_name": "Button",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "pbdw",
+              "children": [
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "Informações",
+              "class_name": "GroupBox",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "FNUDO3",
+              "children": [
+                {
+                  "title": "A constante evolução dos sistemas de informação muitas vezes exige que a comunicação seja mais dinâmica e imediata com sistemas e usuários externos ao ambiente do hospital. Nesse campo que os módulos Web da Salux entram, provendo agilidade e disponibilidade da informação para usuários previamente autorizados.",
+                  "class_name": "Button",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "pbdw",
+                  "children": [
+                    {
+                      "title": "none",
+                      "class_name": "Edit",
+                      "children": []
+                    },
+                    {
+                      "title": "none",
+                      "class_name": "Edit",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "Informações",
+                  "class_name": "GroupBox",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "A constante evolução dos sistemas de informação muitas vezes exige que a comunicação seja mais dinâmica e imediata com sistemas e usuários externos ao ambiente do hospital. Nesse campo que os módulos Web da Salux entram, provendo agilidade e disponibilidade da informação para usuários previamente autorizados.",
+              "class_name": "Button",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "pbdw",
+              "children": [
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "Informações",
+              "class_name": "GroupBox",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "FNUDO3",
+              "children": [
+                {
+                  "title": "none",
+                  "class_name": "Button",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "pbdw",
+                  "children": [
+                    {
+                      "title": "none",
+                      "class_name": "Edit",
+                      "children": []
+                    },
+                    {
+                      "title": "none",
+                      "class_name": "Edit",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "Informações",
+                  "class_name": "GroupBox",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "none",
+              "class_name": "Button",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "pbdw",
+              "children": [
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "Informações",
+              "class_name": "GroupBox",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "FNUDO3",
+              "children": [
+                {
+                  "title": "none",
+                  "class_name": "Button",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "pbdw",
+                  "children": [
+                    {
+                      "title": "none",
+                      "class_name": "Edit",
+                      "children": []
+                    },
+                    {
+                      "title": "none",
+                      "class_name": "Edit",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "Informações",
+                  "class_name": "GroupBox",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "none",
+              "class_name": "Button",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "pbdw",
+              "children": [
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "Informações",
+              "class_name": "GroupBox",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "FNUDO3",
+              "children": [
+                {
+                  "title": "none",
+                  "class_name": "Button",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "pbdw",
+                  "children": [
+                    {
+                      "title": "none",
+                      "class_name": "Edit",
+                      "children": []
+                    },
+                    {
+                      "title": "none",
+                      "class_name": "Edit",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "Informações",
+                  "class_name": "GroupBox",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "none",
+              "class_name": "Button",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "pbdw",
+              "children": [
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "Informações",
+              "class_name": "GroupBox",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "FNUDO3",
+          "children": [
+            {
+              "title": "A gestão do paciente visa integração de todas as informações assistencias que lhe dizem respeito, com o objetivo de auxiliar os profissionais da área da saúde na tomada de decisão.",
+              "class_name": "Button",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "pbdw",
+              "children": [
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "Informações",
+              "class_name": "GroupBox",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "A gestão do paciente visa integração de todas as informações assistencias que lhe dizem respeito, com o objetivo de auxiliar os profissionais da área da saúde na tomada de decisão.",
+          "class_name": "Button",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "pbdw",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "Informações",
+          "class_name": "GroupBox",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "FNUDO3",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Button",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "pbdw",
+              "children": [
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "Informações",
+              "class_name": "GroupBox",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Button",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "pbdw",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "Informações",
+          "class_name": "GroupBox",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "FNUDO3",
+          "children": [
+            {
+              "title": "O foco da área de suprimentos é equipar com qualidade, preços e prazos competitivos seus empreendimentos espalhados por todo o mundo. Para isso, conta com sistemas gerenciais desenvolvidos internamente, capazes de assegurar as melhores condições e prazos adequados à aquisição de insumos.",
+              "class_name": "Button",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "pbdw",
+              "children": [
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "Informações",
+              "class_name": "GroupBox",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "O foco da área de suprimentos é equipar com qualidade, preços e prazos competitivos seus empreendimentos espalhados por todo o mundo. Para isso, conta com sistemas gerenciais desenvolvidos internamente, capazes de assegurar as melhores condições e prazos adequados à aquisição de insumos.",
+          "class_name": "Button",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "pbdw",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "Informações",
+          "class_name": "GroupBox",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "FNUDO3",
+          "children": [
+            {
+              "title": "A gestão financeira é uma das tradicionais áreas funcionais da gestão, encontrada em qualquer organização e à qual cabem as análises, decisões e atuações relacionados com os meios financeiros necessários à atividade da organização. Desta forma, a função financeira integra todas as tarefas ligadas à obtenção, utilização e controle de recursos financeiros de forma a garantir a estabilidade e a rentabilidade das operações da organização.",
+              "class_name": "Button",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "pbdw",
+              "children": [
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "Informações",
+              "class_name": "GroupBox",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "A gestão financeira é uma das tradicionais áreas funcionais da gestão, encontrada em qualquer organização e à qual cabem as análises, decisões e atuações relacionados com os meios financeiros necessários à atividade da organização. Desta forma, a função financeira integra todas as tarefas ligadas à obtenção, utilização e controle de recursos financeiros de forma a garantir a estabilidade e a rentabilidade das operações da organização.",
+          "class_name": "Button",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "pbdw",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "Informações",
+          "class_name": "GroupBox",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "FNUDO3",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Button",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "pbdw",
+              "children": [
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "Informações",
+              "class_name": "GroupBox",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Button",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "pbdw",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "Informações",
+          "class_name": "GroupBox",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "FNUDO3",
+          "children": [
+            {
+              "title": "A gestão estratégica organiza os contributos que as diversas áreas têm a dar à organização, servindo como linha orientadora à integração dos esforços desenvolvidos pelos vários especialistas, dispersos pelo organização.",
+              "class_name": "Button",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "pbdw",
+              "children": [
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "Informações",
+              "class_name": "GroupBox",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "A gestão estratégica organiza os contributos que as diversas áreas têm a dar à organização, servindo como linha orientadora à integração dos esforços desenvolvidos pelos vários especialistas, dispersos pelo organização.",
+          "class_name": "Button",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "pbdw",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "Informações",
+          "class_name": "GroupBox",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "FNUDO3",
+          "children": [
+            {
+              "title": "A constante evolução dos sistemas de informação muitas vezes exige que a comunicação seja mais dinâmica e imediata com sistemas e usuários externos ao ambiente do hospital. Nesse campo que os módulos Web da Salux entram, provendo agilidade e disponibilidade da informação para usuários previamente autorizados.",
+              "class_name": "Button",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "pbdw",
+              "children": [
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "Informações",
+              "class_name": "GroupBox",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "A constante evolução dos sistemas de informação muitas vezes exige que a comunicação seja mais dinâmica e imediata com sistemas e usuários externos ao ambiente do hospital. Nesse campo que os módulos Web da Salux entram, provendo agilidade e disponibilidade da informação para usuários previamente autorizados.",
+          "class_name": "Button",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "pbdw",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "Informações",
+          "class_name": "GroupBox",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "FNUDO3",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Button",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "pbdw",
+              "children": [
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "Informações",
+              "class_name": "GroupBox",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Button",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "pbdw",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "Informações",
+          "class_name": "GroupBox",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "FNUDO3",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Button",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "pbdw",
+              "children": [
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "Informações",
+              "class_name": "GroupBox",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Button",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "pbdw",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "Informações",
+          "class_name": "GroupBox",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "FNUDO3",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Button",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "pbdw",
+              "children": [
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "Informações",
+              "class_name": "GroupBox",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Button",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "pbdw",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "Informações",
+          "class_name": "GroupBox",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "pbdw",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "none",
+      "class_name": "PBTabControl32_100",
+      "children": [
+        {
+          "title": "none",
+          "class_name": "FNUDO3",
+          "children": [
+            {
+              "title": "A gestão do paciente visa integração de todas as informações assistencias que lhe dizem respeito, com o objetivo de auxiliar os profissionais da área da saúde na tomada de decisão.",
+              "class_name": "Button",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "pbdw",
+              "children": [
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "Informações",
+              "class_name": "GroupBox",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "A gestão do paciente visa integração de todas as informações assistencias que lhe dizem respeito, com o objetivo de auxiliar os profissionais da área da saúde na tomada de decisão.",
+          "class_name": "Button",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "pbdw",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "Informações",
+          "class_name": "GroupBox",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "FNUDO3",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Button",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "pbdw",
+              "children": [
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "Informações",
+              "class_name": "GroupBox",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Button",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "pbdw",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "Informações",
+          "class_name": "GroupBox",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "FNUDO3",
+          "children": [
+            {
+              "title": "O foco da área de suprimentos é equipar com qualidade, preços e prazos competitivos seus empreendimentos espalhados por todo o mundo. Para isso, conta com sistemas gerenciais desenvolvidos internamente, capazes de assegurar as melhores condições e prazos adequados à aquisição de insumos.",
+              "class_name": "Button",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "pbdw",
+              "children": [
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "Informações",
+              "class_name": "GroupBox",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "O foco da área de suprimentos é equipar com qualidade, preços e prazos competitivos seus empreendimentos espalhados por todo o mundo. Para isso, conta com sistemas gerenciais desenvolvidos internamente, capazes de assegurar as melhores condições e prazos adequados à aquisição de insumos.",
+          "class_name": "Button",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "pbdw",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "Informações",
+          "class_name": "GroupBox",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "FNUDO3",
+          "children": [
+            {
+              "title": "A gestão financeira é uma das tradicionais áreas funcionais da gestão, encontrada em qualquer organização e à qual cabem as análises, decisões e atuações relacionados com os meios financeiros necessários à atividade da organização. Desta forma, a função financeira integra todas as tarefas ligadas à obtenção, utilização e controle de recursos financeiros de forma a garantir a estabilidade e a rentabilidade das operações da organização.",
+              "class_name": "Button",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "pbdw",
+              "children": [
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "Informações",
+              "class_name": "GroupBox",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "A gestão financeira é uma das tradicionais áreas funcionais da gestão, encontrada em qualquer organização e à qual cabem as análises, decisões e atuações relacionados com os meios financeiros necessários à atividade da organização. Desta forma, a função financeira integra todas as tarefas ligadas à obtenção, utilização e controle de recursos financeiros de forma a garantir a estabilidade e a rentabilidade das operações da organização.",
+          "class_name": "Button",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "pbdw",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "Informações",
+          "class_name": "GroupBox",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "FNUDO3",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Button",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "pbdw",
+              "children": [
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "Informações",
+              "class_name": "GroupBox",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Button",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "pbdw",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "Informações",
+          "class_name": "GroupBox",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "FNUDO3",
+          "children": [
+            {
+              "title": "A gestão estratégica organiza os contributos que as diversas áreas têm a dar à organização, servindo como linha orientadora à integração dos esforços desenvolvidos pelos vários especialistas, dispersos pelo organização.",
+              "class_name": "Button",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "pbdw",
+              "children": [
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "Informações",
+              "class_name": "GroupBox",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "A gestão estratégica organiza os contributos que as diversas áreas têm a dar à organização, servindo como linha orientadora à integração dos esforços desenvolvidos pelos vários especialistas, dispersos pelo organização.",
+          "class_name": "Button",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "pbdw",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "Informações",
+          "class_name": "GroupBox",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "FNUDO3",
+          "children": [
+            {
+              "title": "A constante evolução dos sistemas de informação muitas vezes exige que a comunicação seja mais dinâmica e imediata com sistemas e usuários externos ao ambiente do hospital. Nesse campo que os módulos Web da Salux entram, provendo agilidade e disponibilidade da informação para usuários previamente autorizados.",
+              "class_name": "Button",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "pbdw",
+              "children": [
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "Informações",
+              "class_name": "GroupBox",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "A constante evolução dos sistemas de informação muitas vezes exige que a comunicação seja mais dinâmica e imediata com sistemas e usuários externos ao ambiente do hospital. Nesse campo que os módulos Web da Salux entram, provendo agilidade e disponibilidade da informação para usuários previamente autorizados.",
+          "class_name": "Button",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "pbdw",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "Informações",
+          "class_name": "GroupBox",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "FNUDO3",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Button",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "pbdw",
+              "children": [
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "Informações",
+              "class_name": "GroupBox",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Button",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "pbdw",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "Informações",
+          "class_name": "GroupBox",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "FNUDO3",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Button",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "pbdw",
+              "children": [
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "Informações",
+              "class_name": "GroupBox",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Button",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "pbdw",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "Informações",
+          "class_name": "GroupBox",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "FNUDO3",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Button",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "pbdw",
+              "children": [
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                },
+                {
+                  "title": "none",
+                  "class_name": "Edit",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "Informações",
+              "class_name": "GroupBox",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Button",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "pbdw",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "Informações",
+          "class_name": "GroupBox",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "none",
+      "class_name": "FNUDO3",
+      "children": [
+        {
+          "title": "A gestão do paciente visa integração de todas as informações assistencias que lhe dizem respeito, com o objetivo de auxiliar os profissionais da área da saúde na tomada de decisão.",
+          "class_name": "Button",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "pbdw",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "Informações",
+          "class_name": "GroupBox",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "A gestão do paciente visa integração de todas as informações assistencias que lhe dizem respeito, com o objetivo de auxiliar os profissionais da área da saúde na tomada de decisão.",
+      "class_name": "Button",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "pbdw",
+      "children": [
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "none",
+      "class_name": "Edit",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "Edit",
+      "children": []
+    },
+    {
+      "title": "Informações",
+      "class_name": "GroupBox",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "FNUDO3",
+      "children": [
+        {
+          "title": "none",
+          "class_name": "Button",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "pbdw",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "Informações",
+          "class_name": "GroupBox",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "none",
+      "class_name": "Button",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "pbdw",
+      "children": [
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "none",
+      "class_name": "Edit",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "Edit",
+      "children": []
+    },
+    {
+      "title": "Informações",
+      "class_name": "GroupBox",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "FNUDO3",
+      "children": [
+        {
+          "title": "O foco da área de suprimentos é equipar com qualidade, preços e prazos competitivos seus empreendimentos espalhados por todo o mundo. Para isso, conta com sistemas gerenciais desenvolvidos internamente, capazes de assegurar as melhores condições e prazos adequados à aquisição de insumos.",
+          "class_name": "Button",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "pbdw",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "Informações",
+          "class_name": "GroupBox",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "O foco da área de suprimentos é equipar com qualidade, preços e prazos competitivos seus empreendimentos espalhados por todo o mundo. Para isso, conta com sistemas gerenciais desenvolvidos internamente, capazes de assegurar as melhores condições e prazos adequados à aquisição de insumos.",
+      "class_name": "Button",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "pbdw",
+      "children": [
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "none",
+      "class_name": "Edit",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "Edit",
+      "children": []
+    },
+    {
+      "title": "Informações",
+      "class_name": "GroupBox",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "FNUDO3",
+      "children": [
+        {
+          "title": "A gestão financeira é uma das tradicionais áreas funcionais da gestão, encontrada em qualquer organização e à qual cabem as análises, decisões e atuações relacionados com os meios financeiros necessários à atividade da organização. Desta forma, a função financeira integra todas as tarefas ligadas à obtenção, utilização e controle de recursos financeiros de forma a garantir a estabilidade e a rentabilidade das operações da organização.",
+          "class_name": "Button",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "pbdw",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "Informações",
+          "class_name": "GroupBox",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "A gestão financeira é uma das tradicionais áreas funcionais da gestão, encontrada em qualquer organização e à qual cabem as análises, decisões e atuações relacionados com os meios financeiros necessários à atividade da organização. Desta forma, a função financeira integra todas as tarefas ligadas à obtenção, utilização e controle de recursos financeiros de forma a garantir a estabilidade e a rentabilidade das operações da organização.",
+      "class_name": "Button",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "pbdw",
+      "children": [
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "none",
+      "class_name": "Edit",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "Edit",
+      "children": []
+    },
+    {
+      "title": "Informações",
+      "class_name": "GroupBox",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "FNUDO3",
+      "children": [
+        {
+          "title": "none",
+          "class_name": "Button",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "pbdw",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "Informações",
+          "class_name": "GroupBox",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "none",
+      "class_name": "Button",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "pbdw",
+      "children": [
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "none",
+      "class_name": "Edit",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "Edit",
+      "children": []
+    },
+    {
+      "title": "Informações",
+      "class_name": "GroupBox",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "FNUDO3",
+      "children": [
+        {
+          "title": "A gestão estratégica organiza os contributos que as diversas áreas têm a dar à organização, servindo como linha orientadora à integração dos esforços desenvolvidos pelos vários especialistas, dispersos pelo organização.",
+          "class_name": "Button",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "pbdw",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "Informações",
+          "class_name": "GroupBox",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "A gestão estratégica organiza os contributos que as diversas áreas têm a dar à organização, servindo como linha orientadora à integração dos esforços desenvolvidos pelos vários especialistas, dispersos pelo organização.",
+      "class_name": "Button",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "pbdw",
+      "children": [
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "none",
+      "class_name": "Edit",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "Edit",
+      "children": []
+    },
+    {
+      "title": "Informações",
+      "class_name": "GroupBox",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "FNUDO3",
+      "children": [
+        {
+          "title": "A constante evolução dos sistemas de informação muitas vezes exige que a comunicação seja mais dinâmica e imediata com sistemas e usuários externos ao ambiente do hospital. Nesse campo que os módulos Web da Salux entram, provendo agilidade e disponibilidade da informação para usuários previamente autorizados.",
+          "class_name": "Button",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "pbdw",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "Informações",
+          "class_name": "GroupBox",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "A constante evolução dos sistemas de informação muitas vezes exige que a comunicação seja mais dinâmica e imediata com sistemas e usuários externos ao ambiente do hospital. Nesse campo que os módulos Web da Salux entram, provendo agilidade e disponibilidade da informação para usuários previamente autorizados.",
+      "class_name": "Button",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "pbdw",
+      "children": [
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "none",
+      "class_name": "Edit",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "Edit",
+      "children": []
+    },
+    {
+      "title": "Informações",
+      "class_name": "GroupBox",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "FNUDO3",
+      "children": [
+        {
+          "title": "none",
+          "class_name": "Button",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "pbdw",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "Informações",
+          "class_name": "GroupBox",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "none",
+      "class_name": "Button",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "pbdw",
+      "children": [
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "none",
+      "class_name": "Edit",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "Edit",
+      "children": []
+    },
+    {
+      "title": "Informações",
+      "class_name": "GroupBox",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "FNUDO3",
+      "children": [
+        {
+          "title": "none",
+          "class_name": "Button",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "pbdw",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "Informações",
+          "class_name": "GroupBox",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "none",
+      "class_name": "Button",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "pbdw",
+      "children": [
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "none",
+      "class_name": "Edit",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "Edit",
+      "children": []
+    },
+    {
+      "title": "Informações",
+      "class_name": "GroupBox",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "FNUDO3",
+      "children": [
+        {
+          "title": "none",
+          "class_name": "Button",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "pbdw",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            },
+            {
+              "title": "none",
+              "class_name": "Edit",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "Informações",
+          "class_name": "GroupBox",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "none",
+      "class_name": "Button",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "pbdw",
+      "children": [
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Edit",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "none",
+      "class_name": "Edit",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "Edit",
+      "children": []
+    },
+    {
+      "title": "Informações",
+      "class_name": "GroupBox",
+      "children": []
+    },
+    {
+      "title": "none",
+      "class_name": "pbdw",
+      "children": []
+    },
+    {
+      "title": "Não exibir este video novamente no futuro",
+      "class_name": "CheckBox",
+      "children": []
+    }
+  ]
+}
