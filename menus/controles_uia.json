@@ -1,0 +1,158 @@
+{
+  "title": "INFOSAUDE - QAPP - SALUX HOSPITAL UM - Portal Salux SX 4.24080.10",
+  "class_name": "Dialog",
+  "children": [
+    {
+      "title": "none",
+      "class_name": "Pane",
+      "children": [
+        {
+          "title": "none",
+          "class_name": "Button",
+          "children": [
+            {
+              "title": "Unnamed_view_0",
+              "class_name": "Pane",
+              "children": [
+                {
+                  "title": "EVRVideoHandler",
+                  "class_name": "Pane",
+                  "children": []
+                },
+                {
+                  "title": "svLayoutSize",
+                  "class_name": "GroupBox",
+                  "children": []
+                },
+                {
+                  "title": "svVideo",
+                  "class_name": "GroupBox",
+                  "children": [
+                    {
+                      "title": "video1",
+                      "class_name": "Custom",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "svBanner",
+                  "class_name": "GroupBox",
+                  "children": [
+                    {
+                      "title": "AdBanner",
+                      "class_name": "Button",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "svTransport",
+                  "class_name": "GroupBox",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Pane",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "none",
+      "class_name": "Pane",
+      "children": [
+        {
+          "title": "none",
+          "class_name": "Pane",
+          "children": []
+        },
+        {
+          "title": "Segunda-feira, 22 de setembro de 2025, 13 hora(s) e 53 minuto(s) .",
+          "class_name": "Static",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "none",
+      "class_name": "Pane",
+      "children": [
+        {
+          "title": "none",
+          "class_name": "Pane",
+          "children": []
+        },
+        {
+          "title": "none",
+          "class_name": "Pane",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "none",
+      "class_name": "Pane",
+      "children": [
+        {
+          "title": "none",
+          "class_name": "Pane",
+          "children": [
+            {
+              "title": "none",
+              "class_name": "Pane",
+              "children": [
+                {
+                  "title": "none",
+                  "class_name": "Pane",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "none",
+          "class_name": "Pane",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "none",
+      "class_name": "TitleBar",
+      "children": [
+        {
+          "title": "Sistema",
+          "class_name": "Menu",
+          "children": [
+            {
+              "title": "Sistema",
+              "class_name": "MenuItem",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Minimizar",
+          "class_name": "Button",
+          "children": []
+        },
+        {
+          "title": "Restaurar",
+          "class_name": "Button",
+          "children": []
+        },
+        {
+          "title": "Fechar",
+          "class_name": "Button",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

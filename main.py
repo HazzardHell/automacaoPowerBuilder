@@ -34,7 +34,7 @@ try:
     sigma.wait_for_window("INFOSAUDE.*")
     print("Tela principal pronta.")
     MenuSigma = MainMenu(sigma)
-    MenuSigma.mapear_menus_principais()
+    MenuSigma.testeModulo()
 except Exception as e:
     print(f"Erro durante o mapeamento dos menus: {e}")
     sigma.kill()

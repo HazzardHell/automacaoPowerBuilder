@@ -100,7 +100,7 @@ class SigmaActions:
         print("Janela fechada.")
 
     def try_get_window(self, title_re: str, timeout: int = 5):
-        """
+        """                     
         Tenta obter uma janela pelo título (regex).
         Retorna a janela se existir, ou None se não encontrar no tempo limite.
         """
